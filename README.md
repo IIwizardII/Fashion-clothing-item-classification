@@ -1,1 +1,1 @@
-# Fashion-clothing-item-classification
+This project classifies fashion clothing items from their pictures. There are 10 types of clothing items in the dataset. Python packages like keras, tensorflow, matplotlib has been used in the project. 
